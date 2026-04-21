@@ -1,0 +1,3 @@
+Step1: Open DVWA login
+Step2: Enter ' OR '1'='1
+Step3: Login bypass

@@ -1,0 +1,2 @@
+LFI: ../../etc/passwd
+RFI: remote script execution

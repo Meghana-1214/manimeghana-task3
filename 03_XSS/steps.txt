@@ -1,0 +1,1 @@
+<script>alert('XSS')</script> used for stored/reflected XSS
